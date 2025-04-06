@@ -6,6 +6,15 @@ Este repositorio contiene dos proyectos de Machine Learning enfocados en el aná
 
 Se analizan conjuntos de datos que contienen información sobre clientes, incluyendo datos demográficos, comportamiento en plataformas digitales y uso de servicios. El objetivo es construir modelos predictivos que permitan a las empresas comprender mejor a sus clientes y tomar decisiones informadas.
 
+# Clasificación de Dígitos con Redes Neuronales (MNIST).
+Este proyecto implementa un modelo de red neuronal para la clasificación de imágenes manuscritas del dataset MNIST, utilizando dos enfoques:
+
+Construcción manual del perceptrón multicapa (MLP) con NumPy.
+Construcción usando librerías especializadas como TensorFlow/Keras.
+
+
+Este repositorio contiene dos proyectos de Machine Learning enfocados en el análisis de clientes: uno de regresión lineal para predecir el gasto anual de clientes de ecommerce, y otro de clasificación KNN para predecir la fuga de clientes (Churn) y finalmente la creación de redes neuronares de manera manual y haciendo uso de bibliotecas
+
 ## Estructura del Repositorio
 
 El repositorio se organiza en los siguientes directorios y archivos:
